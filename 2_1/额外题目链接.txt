@@ -1,0 +1,3 @@
+【二分查找数组元素】:https://www.lanqiao.cn/problems/1389/learning/
+【一元三次方求解】:https://www.lanqiao.cn/problems/764/learning/
+【高精度开根】:https://www.lanqiao.cn/problems/909/learning/
