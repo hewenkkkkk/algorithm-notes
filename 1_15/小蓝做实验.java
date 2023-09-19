@@ -8,10 +8,10 @@ import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 
 public class 小蓝做实验 {
-	//F:\\java项目\\蓝桥杯\\src\\学长代练\\primes.txt
+
 	public static void main(String[] args) throws IOException{
 		// TODO Auto-generated method stub
-		BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream("F:\\java项目\\蓝桥杯\\src\\学长代练\\primes.txt")));
+		BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream("F:\\primes.txt")));
 		PrintWriter out = new PrintWriter(new OutputStreamWriter(System.out));
 		//10^7 ~ 10^8
 		//10^3 ~ 10^12
