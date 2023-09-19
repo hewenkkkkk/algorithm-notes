@@ -1,4 +1,4 @@
-package Ö±²¥12_25;
+package 12_25;
 
 import java.util.Calendar;
 

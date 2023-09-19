@@ -1,4 +1,4 @@
-package 直播1_4;
+package 1_4;
 
 public class 从我做起振新中华dp {
 

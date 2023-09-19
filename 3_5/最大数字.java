@@ -1,4 +1,4 @@
-package Ö±²¥3_5;
+package 3_5;
 
 import java.util.Scanner;
 

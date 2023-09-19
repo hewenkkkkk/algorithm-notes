@@ -1,4 +1,4 @@
-package Ö±²¥2_12;
+package 2_12;
 
 import java.io.BufferedReader;
 import java.io.IOException;

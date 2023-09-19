@@ -1,4 +1,4 @@
-package 直播3_1;
+package 3_1;
 import java.io.*;
 
 public class 环境治理 {

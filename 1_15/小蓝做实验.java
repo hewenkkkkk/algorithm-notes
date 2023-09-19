@@ -1,4 +1,4 @@
-package Ö±²¥1_15;
+package 1_15;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

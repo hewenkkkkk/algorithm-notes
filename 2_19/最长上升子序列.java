@@ -1,4 +1,4 @@
-package 直播2_19;
+package 2_19;
 
 public class 最长上升子序列 {
 	public static void main(String[] args) {

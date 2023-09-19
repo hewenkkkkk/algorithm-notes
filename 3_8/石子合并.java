@@ -1,4 +1,4 @@
-package Ö±²¥3_8;
+package 3_8;
 
 import java.util.Arrays;
 import java.util.Scanner;

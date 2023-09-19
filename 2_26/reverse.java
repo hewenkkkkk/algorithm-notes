@@ -1,4 +1,4 @@
-package Ö±²¥2_26;
+package 2_26;
 
 public class reverse {
 	public static void main(String[] args) {

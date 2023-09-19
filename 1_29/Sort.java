@@ -1,4 +1,4 @@
-package Ö±²¥1_29;
+package 1_29;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package Ö±²¥3_1;
+package 3_1;
 
 public class Â·¾¶ {
 

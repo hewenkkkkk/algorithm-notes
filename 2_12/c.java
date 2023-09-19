@@ -1,4 +1,4 @@
-package Ö±²¥2_12;
+package 2_12;
 
 public class c {
 	public static void main(String[] args) {
